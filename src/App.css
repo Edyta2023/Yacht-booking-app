@@ -1,3 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+button {
+
+}
+
+/*Calendar styles */
+
 .App {
   text-align: center;
 }
@@ -36,3 +52,5 @@
     transform: rotate(360deg);
   }
 }
+
+
