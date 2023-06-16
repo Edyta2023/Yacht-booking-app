@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yacht-booking-app/static/css/main.1e1f1985.css",
+    "main.js": "/Yacht-booking-app/static/js/main.ed9448b9.js",
+    "static/js/787.ba611bcc.chunk.js": "/Yacht-booking-app/static/js/787.ba611bcc.chunk.js",
+    "static/media/logo.svg": "/Yacht-booking-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yacht-booking-app/index.html",
+    "main.1e1f1985.css.map": "/Yacht-booking-app/static/css/main.1e1f1985.css.map",
+    "main.ed9448b9.js.map": "/Yacht-booking-app/static/js/main.ed9448b9.js.map",
+    "787.ba611bcc.chunk.js.map": "/Yacht-booking-app/static/js/787.ba611bcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1f1985.css",
+    "static/js/main.ed9448b9.js"
+  ]
+}
