@@ -17,7 +17,7 @@ The app features a calendar where users can select dates and enter their booking
 ## 🔧 INSTALLATION
 
 1. Clone the repository: `git clone https://github.com/Edyta2023/Yacht-booking-system`
-2. Navigate to the project directory: `cd boat-booking-app`
+2. Navigate to the project directory: `cd edyta-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open the application in your browser: `http://localhost:3000`
