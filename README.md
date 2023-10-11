@@ -31,13 +31,6 @@ The app features a calendar where users can select dates and enter their booking
 5. Submit the booking request.
 6. The application will display a confirmation message and provide further instructions.
 
-## 👏 CONTRIBUTE
-Icons from flaticon.com made by:
-
-Smashicons: https://www.flaticon.com/packs/monsters-3 + https://www.flaticon.com/packs/alien-ufo-9
-Freepik: https://www.flaticon.com/packs/coronavirus-25 + https://www.flaticon.com/packs/nature-38 + https://www.flaticon.com/packs/fantastic-characters-32 + https://www.flaticon.com/packs/avatars-46
-Dimitry Miroliubov: https://www.flaticon.com/packs/halloween-29
-
 ## 👁‍🗨 CONTRIBUTING
 
 If you spot any bug or have feedback, please open an isssue on Github. All your comments are very welcome.
